@@ -113,8 +113,7 @@ one who can **collect, clean, analyze, and interpret** data independently.
 
 ## 📂 Notebook & Code
 All code, analysis, and visualizations can be found inside:
-- `/notebooks/Web_Scraping_Project.ipynb`
-- `/data/mango_market_data.csv`
-- `/images/` (for visual outputs)
+- `Web_Scraping_Project.ipynb`
+- `mango_market_data.csv`
 
 ---
